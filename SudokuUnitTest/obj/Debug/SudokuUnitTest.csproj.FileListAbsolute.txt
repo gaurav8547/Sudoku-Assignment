@@ -1,0 +1,7 @@
+C:\Users\gaurav8547\Documents\Visual Studio 2012\Projects\Sudoku\SudokuUnitTest\bin\Debug\SudokuUnitTest.dll
+C:\Users\gaurav8547\Documents\Visual Studio 2012\Projects\Sudoku\SudokuUnitTest\bin\Debug\SudokuUnitTest.pdb
+C:\Users\gaurav8547\Documents\Visual Studio 2012\Projects\Sudoku\SudokuUnitTest\bin\Debug\Sudoku.exe
+C:\Users\gaurav8547\Documents\Visual Studio 2012\Projects\Sudoku\SudokuUnitTest\bin\Debug\Sudoku.pdb
+C:\Users\gaurav8547\Documents\Visual Studio 2012\Projects\Sudoku\SudokuUnitTest\obj\Debug\SudokuUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\gaurav8547\Documents\Visual Studio 2012\Projects\Sudoku\SudokuUnitTest\obj\Debug\SudokuUnitTest.dll
+C:\Users\gaurav8547\Documents\Visual Studio 2012\Projects\Sudoku\SudokuUnitTest\obj\Debug\SudokuUnitTest.pdb
